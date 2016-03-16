@@ -1,0 +1,30 @@
+{
+  "name": "phase_01",
+  "version": "1.0.0",
+  "description": "baidu ife",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SCAU-iFE/Phase_01.git"
+  },
+  "keywords": [
+    "baidu",
+    "ife",
+    "front",
+    "end"
+  ],
+  "author": "liangbizhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SCAU-iFE/Phase_01/issues"
+  },
+  "homepage": "https://github.com/SCAU-iFE/Phase_01#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.0.5",
+    "less-plugin-autoprefix": "^1.5.1"
+  }
+}
